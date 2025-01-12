@@ -1,0 +1,2 @@
+Patient Name, IC Number, Patient ID, Gender, Date of Birth, Marrital Status, Blood Group, Allergy, Height, Weight, Ethnicity, Mobile Phone, Home Phone, Email, Address
+Razak bin Osman,992508105543,1,Male,Single,Malay,170 cm,70 kg,O+,Peanuts,08/25/1999,146928599,325462245,Razak@gmail.com,10 Pusat Perdagangan Amcorp Jln Persiaran Barat Seksyen 52,

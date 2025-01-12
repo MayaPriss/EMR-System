@@ -1,0 +1,2 @@
+PID, Analysis Date, Alt, Ast, Alp, Albumin,  Prothombin Time, Total Protein
+001,12,0.0,0.0,0.0,0.0,0.0,0.0,
